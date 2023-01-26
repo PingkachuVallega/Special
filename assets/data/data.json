@@ -3,23 +3,23 @@
   "data": [
     {
       "id": 2023,
-      "firstName": "Superman",
-      "lastName": "Yoda"
+      "name": "Superman",
+      "email": "Yoda"
     },
     {
       "id": 2023,
-      "firstName": "Foo",
-      "lastName": "Whateveryournameis"
+      "name": "Foo",
+      "name": "Whateveryournameis"
     },
     {
       "id": 2023,
       "firstName": "Toto",
-      "lastName": "Titi"
+      "email": "Titi"
     },
     {
       "id": 2023,
       "firstName": "Luke",
-      "lastName": "Kyle"
+      "email": "Kyle"
     }
     
   ]
