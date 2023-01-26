@@ -2,22 +2,22 @@
 {
   "data": [
     {
-      "id": 2023_1,
+      "id": 2023,
       "firstName": "Superman",
       "lastName": "Yoda"
     },
     {
-      "id": 2023_2,
+      "id": 2023,
       "firstName": "Foo",
       "lastName": "Whateveryournameis"
     },
     {
-      "id": 2023_3,
+      "id": 2023,
       "firstName": "Toto",
       "lastName": "Titi"
     },
     {
-      "id": 2023_4,
+      "id": 2023,
       "firstName": "Luke",
       "lastName": "Kyle"
     }
