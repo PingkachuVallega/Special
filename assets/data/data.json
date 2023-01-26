@@ -9,16 +9,16 @@
     {
       "id": 2023,
       "name": "Foo",
-      "name": "Whateveryournameis"
+      "email": "Whateveryournameis"
     },
     {
       "id": 2023,
-      "firstName": "Toto",
+      "name": "Toto",
       "email": "Titi"
     },
     {
       "id": 2023,
-      "firstName": "Luke",
+      "name": "Luke",
       "email": "Kyle"
     }
     
