@@ -4,22 +4,22 @@
 {
   "data": [
     {
-      "id": C2023_1,
+      "id": 2023_1,
       "firstName": "Superman",
       "lastName": "Yoda"
     },
     {
-      "id": C2023_2,
+      "id": 2023_2,
       "firstName": "Foo",
       "lastName": "Whateveryournameis"
     },
     {
-      "id": C2023_3,
+      "id": 2023_3,
       "firstName": "Toto",
       "lastName": "Titi"
     },
     {
-      "id": C2023_4,
+      "id": 2023_4,
       "firstName": "Luke",
       "lastName": "Kyle"
     },
